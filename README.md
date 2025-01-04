@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have a bachelor degree in Electronics and I have been working in multi-discipline projects since 2006, mostly working on platforms like:
+I have a bachelor degree in Electronics and I have been working in multi-discipline projects since 2006, mostly working on hardware platforms like:
 
 - FPGAS: Spartan and Virtex Series
 - Microcontrolers: PIC Microcontrolers 18F series from Microchip
