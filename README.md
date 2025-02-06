@@ -9,7 +9,7 @@
 - A passionate Electronics Engineer
 - I have extensive experience working on multidisciplinary projects, collaborating with experts from various fields to achieve innovative and efficient solutions.
 - My expertise includes developing innovative projects with electronic boards and devices, leveraging technologies like FPGAs, Microchip PIC microcontrollers, ESP32, and Raspberry Pi.
-- Currently learning Data Analytics by Self
+- Currently learning Data Analytics on my own
 - I’m currently open for a new job opportunity
 
 <br><br>
